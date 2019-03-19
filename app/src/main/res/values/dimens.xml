@@ -2,7 +2,7 @@
 <resources>
     <dimen name="size_8">8dp</dimen>
     <dimen name="size_16">16dp</dimen>
-    <dimen name="size_64">64dp</dimen>
+    <dimen name="size_164">164dp</dimen>
 
     <dimen name="text_14">14sp</dimen>
 </resources>
