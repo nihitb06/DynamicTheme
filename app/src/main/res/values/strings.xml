@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Dynamic Theming</string>
+
+    <!-- Placeholder Text for the Activity -->
+    <string name="placeholder">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque earum facere hic? Accusantium amet at, atque blanditiis consectetur dolorum, fugit id ipsam iure libero maxime nesciunt, quas quisquam temporibus voluptatibus!</string>
+    <string name="button_text">Random Button</string>
 </resources>
